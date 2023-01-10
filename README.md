@@ -26,11 +26,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Installation
+## Install postgres and create database
+https://www.postgresql.org/download/
 
-```bash
-$ npm install
-```
+https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e
 
 ## Required Environment variables to connect to psql database
 
@@ -39,7 +38,12 @@ $ export DB_HOST=localhost
 $ export DB_DATABASE=prospera
 $ export DB_USER=myuser
 $ export DB_PASSWORD=mypass
+```
 
+## Installation
+
+```bash
+$ npm install
 ```
 
 ## Migration
