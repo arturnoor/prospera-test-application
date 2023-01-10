@@ -68,3 +68,7 @@ $ npm run start:prod
 $ npm run test
 
 ```
+
+## Swagger Documentation
+
+http://localhost:3000/api
