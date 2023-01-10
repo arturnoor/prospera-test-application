@@ -32,7 +32,7 @@
 $ npm install
 ```
 
-## Required Environment variables
+## Required Environment variables to connect to psql database
 
 ```bash
 $ export DB_HOST=localhost
